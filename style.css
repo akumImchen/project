@@ -149,6 +149,6 @@
     width: 100%;
     position: absolute;
     top: -10px;
-    background-image:linear-gradient(to right,#e5e5e5 10%,#d4d4d4,white 90%);
+    background-image:linear-gradient(to right,#e5e5e5 20%,#d4d4d4,white 90%);
     opacity: 0.5;
 }
